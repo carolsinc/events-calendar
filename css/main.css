@@ -2,8 +2,8 @@ html {
   font-family: Merriweather, serif;
 }
 
-caption {
-  text-align: center;
+table {
+  border: 1px solid #ccc;
 }
 
 .day {
@@ -11,19 +11,18 @@ caption {
 }
 
 .event {
-border: 1px solid #000;
-border-radius: 8px;
+  border: 1px solid #000;
+  border-radius: 8px;
 }
 
 .science {
   background-color: #f2f2f2;
   color: #333;
   border-color: #666;
-
 }
 
 .holiday {
-  background-color: #f3bcbc;
+  background-color: #f2bcbc;
   color: #991919;
   border-color: #b92828;
 }
