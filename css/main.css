@@ -2,22 +2,40 @@ html {
   font-family: Merriweather, serif;
 }
 
-.event {
+caption {
+  text-align: center;
+}
 
+.day {
+  height: 7rem;
+}
+
+.event {
+border: 1px solid #000;
+border-radius: 8px;
 }
 
 .science {
+  background-color: #f2f2f2;
+  color: #333;
+  border-color: #666;
 
 }
 
 .holiday {
-
+  background-color: #f3bcbc;
+  color: #991919;
+  border-color: #b92828;
 }
 
 .entertainment {
-
+  background-color: #d2d6f0;
+  color: #38448e;
+  border-color: #1d38da;
 }
 
 .geography {
-
+  background-color: #d1e0bf;
+  color: #51603f;
+  border-color: #6b7e54;
 }
